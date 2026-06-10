@@ -22,25 +22,23 @@ AI Systems Architect
 
 **Languages & Frameworks**
 - Python (primary)
+- Langchain
 - Streamlit
-- FastAPI (select services)
+- FastAPI
 
 **AI / Data**
 - OpenAI models
-- Embedchain
 - Chroma / vector databases
 - Mem0 (local + SaaS memory architectures)
 
 **Infrastructure**
-- Ubuntu VPS (OVH, Vultr)
-- Apache (reverse proxy, SSL, WebSockets)
-- WordPress (custom plugins, JWT auth)
-- GitHub Actions (light CI/CD)
+- Ubuntu
+- Apache
+- WordPress
 
 **Email & Automation**
 - Microsoft Graph API (M365)
 - Stripe + subscription workflows
-- Cold-outreach infrastructure (domain isolation, DMARC/DKIM/SPF)
 
 ---
 
